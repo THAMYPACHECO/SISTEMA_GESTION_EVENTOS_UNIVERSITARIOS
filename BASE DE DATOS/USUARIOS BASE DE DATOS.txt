@@ -1,0 +1,8 @@
+administrador: admin@universidad.edu 
+contraseña: admin2002
+
+organizador: thamy@gmail.com
+contraseña: cata2002
+
+participante: ashlyn@gmail.com
+contraseña: cata2002
